@@ -38,6 +38,9 @@ h3{
 background-color: white;
 color: #5980a6;
 }
+.col-lg-4,.col-md-4,.col-sm-6,.col-xs-12{
+	border:30px solid white;
+}
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar{
 	border: 1px solid white;
 }
